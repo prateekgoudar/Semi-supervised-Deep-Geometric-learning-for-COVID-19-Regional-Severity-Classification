@@ -1,1 +1,1 @@
-# Semi-supervised Deep Geometric learning for COVID-19 Regional Severity Classification
+# This is a course project carried out for the Ph.D level course "Graph Signal Processing" (18898) at CMU.
